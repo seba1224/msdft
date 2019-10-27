@@ -1,0 +1,242 @@
+--------------------------------- Version Log ----------------------------------
+Version                                 Path
+System Generator                        /opt/Xilinx/14.7/ISE_DS/ISE/sysgen
+Matlab 8.2.0.701 (R2013b)               /usr/local/MATLAB/R2013b
+ISE                                     /opt/Xilinx/14.7/ISE_DS/ISE
+--------------------------------------------------------------------------------
+Summary of Errors:
+Error 0001: All Xilinx Blocks must be contained in a level of hierarc...
+     Block: 'twid_test/Constant1'
+Error 0002: All Xilinx Blocks must be contained in a level of hierarc...
+     Block: 'twid_test/c_to_ri/force_im'
+Error 0003: All Xilinx Blocks must be contained in a level of hierarc...
+     Block: 'twid_test/c_to_ri/force_re'
+Error 0004: All Xilinx Blocks must be contained in a level of hierarc...
+     Block: 'twid_test/c_to_ri/slice_im'
+Error 0005: All Xilinx Blocks must be contained in a level of hierarc...
+     Block: 'twid_test/c_to_ri/slice_re'
+Error 0006: All Xilinx Blocks must be contained in a level of hierarc...
+     Block: 'twid_test/twiddle/Constant'
+Error 0007: All Xilinx Blocks must be contained in a level of hierarc...
+     Block: 'twid_test/twiddle/Counter'
+Error 0008: All Xilinx Blocks must be contained in a level of hierarc...
+     Block: 'twid_test/twiddle/Delay'
+Error 0009: All Xilinx Blocks must be contained in a level of hierarc...
+     Block: 'twid_test/twiddle/Mux'
+Error 0010: All Xilinx Blocks must be contained in a level of hierarc...
+     Block: 'twid_test/twiddle/Register'
+Error 0011: All Xilinx Blocks must be contained in a level of hierarc...
+     Block: 'twid_test/twiddle/im_twid'
+Error 0012: All Xilinx Blocks must be contained in a level of hierarc...
+     Block: 'twid_test/twiddle/re_twid'
+Error 0013: All Xilinx Blocks must be contained in a level of hierarc...
+     Block: 'twid_test/twiddle/ri_to_c/concat'
+Error 0014: All Xilinx Blocks must be contained in a level of hierarc...
+     Block: 'twid_test/twiddle/ri_to_c/force_im'
+Error 0015: All Xilinx Blocks must be contained in a level of hierarc...
+     Block: 'twid_test/twiddle/ri_to_c/force_re'
+Error 0016: All Xilinx Blocks must be contained in a level of hierarc...
+     Block: 'twid_test/Constant'
+Error 0017: All Xilinx Blocks must be contained in a level of hierarc...
+     Block: 'twid_test/Gateway Out'
+Error 0018: All Xilinx Blocks must be contained in a level of hierarc...
+     Block: 'twid_test/Gateway Out1'
+--------------------------------------------------------------------------------
+
+Error 0001:
+
+Reported by:
+  'twid_test/Constant1'
+
+Details:
+All Xilinx Blocks must be contained in a level of hierarchy with a
+System Generator Token.
+
+--------------------------------------------------------------------------------
+
+Error 0001:
+
+Reported by:
+  'twid_test/c_to_ri/force_im'
+
+Details:
+All Xilinx Blocks must be contained in a level of hierarchy with a
+System Generator Token.
+
+--------------------------------------------------------------------------------
+
+Error 0001:
+
+Reported by:
+  'twid_test/c_to_ri/force_re'
+
+Details:
+All Xilinx Blocks must be contained in a level of hierarchy with a
+System Generator Token.
+
+--------------------------------------------------------------------------------
+
+Error 0001:
+
+Reported by:
+  'twid_test/c_to_ri/slice_im'
+
+Details:
+All Xilinx Blocks must be contained in a level of hierarchy with a
+System Generator Token.
+
+--------------------------------------------------------------------------------
+
+Error 0001:
+
+Reported by:
+  'twid_test/c_to_ri/slice_re'
+
+Details:
+All Xilinx Blocks must be contained in a level of hierarchy with a
+System Generator Token.
+
+--------------------------------------------------------------------------------
+
+Error 0001:
+
+Reported by:
+  'twid_test/twiddle/Constant'
+
+Details:
+All Xilinx Blocks must be contained in a level of hierarchy with a
+System Generator Token.
+
+--------------------------------------------------------------------------------
+
+Error 0001:
+
+Reported by:
+  'twid_test/twiddle/Counter'
+
+Details:
+All Xilinx Blocks must be contained in a level of hierarchy with a
+System Generator Token.
+
+--------------------------------------------------------------------------------
+
+Error 0001:
+
+Reported by:
+  'twid_test/twiddle/Delay'
+
+Details:
+All Xilinx Blocks must be contained in a level of hierarchy with a
+System Generator Token.
+
+--------------------------------------------------------------------------------
+
+Error 0001:
+
+Reported by:
+  'twid_test/twiddle/Mux'
+
+Details:
+All Xilinx Blocks must be contained in a level of hierarchy with a
+System Generator Token.
+
+--------------------------------------------------------------------------------
+
+Error 0001:
+
+Reported by:
+  'twid_test/twiddle/Register'
+
+Details:
+All Xilinx Blocks must be contained in a level of hierarchy with a
+System Generator Token.
+
+--------------------------------------------------------------------------------
+
+Error 0001:
+
+Reported by:
+  'twid_test/twiddle/im_twid'
+
+Details:
+All Xilinx Blocks must be contained in a level of hierarchy with a
+System Generator Token.
+
+--------------------------------------------------------------------------------
+
+Error 0001:
+
+Reported by:
+  'twid_test/twiddle/re_twid'
+
+Details:
+All Xilinx Blocks must be contained in a level of hierarchy with a
+System Generator Token.
+
+--------------------------------------------------------------------------------
+
+Error 0001:
+
+Reported by:
+  'twid_test/twiddle/ri_to_c/concat'
+
+Details:
+All Xilinx Blocks must be contained in a level of hierarchy with a
+System Generator Token.
+
+--------------------------------------------------------------------------------
+
+Error 0001:
+
+Reported by:
+  'twid_test/twiddle/ri_to_c/force_im'
+
+Details:
+All Xilinx Blocks must be contained in a level of hierarchy with a
+System Generator Token.
+
+--------------------------------------------------------------------------------
+
+Error 0001:
+
+Reported by:
+  'twid_test/twiddle/ri_to_c/force_re'
+
+Details:
+All Xilinx Blocks must be contained in a level of hierarchy with a
+System Generator Token.
+
+--------------------------------------------------------------------------------
+
+Error 0001:
+
+Reported by:
+  'twid_test/Constant'
+
+Details:
+All Xilinx Blocks must be contained in a level of hierarchy with a
+System Generator Token.
+
+--------------------------------------------------------------------------------
+
+Error 0001:
+
+Reported by:
+  'twid_test/Gateway Out'
+
+Details:
+All Xilinx Blocks must be contained in a level of hierarchy with a
+System Generator Token.
+
+--------------------------------------------------------------------------------
+
+Error 0001:
+
+Reported by:
+  'twid_test/Gateway Out1'
+
+Details:
+All Xilinx Blocks must be contained in a level of hierarchy with a
+System Generator Token.
+
+--------------------------------------------------------------------------------
